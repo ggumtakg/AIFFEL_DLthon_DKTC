@@ -35,7 +35,7 @@ DKTC 테스트 데이터를 활용해 분류 성능을 평가합니다.
 리더보드를 이용해봅니다.
 
 원본 과제 참고 링크  
-![Tunib GitHub](https://github.com/tunib-ai/DKTC)  
+[Tunib GitHub](https://github.com/tunib-ai/DKTC)  
 
 ## 데이터 구조
 ![data](https://user-images.githubusercontent.com/42150335/149441163-7728a543-5dbd-4fb6-b12f-cae5fc79c6fe.png)
