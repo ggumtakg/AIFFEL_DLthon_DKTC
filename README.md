@@ -29,6 +29,7 @@
   
 ## Description
 ### 과제
+[캐글 페이지](https://www.kaggle.com/competitions/aiffel-dl-thon-online-10/overview)
 DKTC 훈련 데이터를 이용해
 협박, 갈취, 직장 내 괴롭힘, 기타 괴롭힘, 일반 대화 5가지 대화 유형 Class를 분류하는 딥러닝 모델을 만듭니다.
 DKTC 테스트 데이터를 활용해 분류 성능을 평가합니다.
